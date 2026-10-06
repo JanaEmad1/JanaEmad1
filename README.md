@@ -1,8 +1,7 @@
 ## Hi, I'm Jana 👋
 
-AI student at the College of Artificial Intelligence, El Alamein. I build applied AI across **LLMs / NLP**,
-**computer vision** and **optimisation**. Each project comes with measured results, honest limitations and
-the business case it serves.
+AI Engineer building applied AI across **LLMs / NLP**, **computer vision** and **optimisation**.
+Each project comes with measured results, honest limitations and the business case it serves.
 
 ### LLM assistants
 
